@@ -24,19 +24,16 @@ namespace JewishCalendarUWP
     //Performance decrease shouldn't really be noticeable.
     public class JewishCalendar
     {
-        public static IList<SpecialDates> GetDayInfo(DateTime date, bool inIsrael)
-        {
-            JewishDate jDate = new JewishDate(date);
-
-            return GetDayInfo(jDate.Year, jDate.Month, jDate.Day, inIsrael);
-        }
-
-        public static IList<SpecialDates> GetDayInfo(int year, int month, int day, bool inIsrael)
+        public static IList<SpecialDates> GetDayInfo(JewishDate date, bool inIsrael)
         {
             IList<SpecialDates> specialDates = new List<SpecialDates>();
 
-            bool isShabbos = IsShabbos(year, month, day);
-            bool isYesterdayShabbos = IsYesterdayShabbos(year, month, day);
+            int year = date.Year;
+            int month = date.Month;
+            int day = date.Day;
+
+            bool isShabbos = IsShabbos(date);
+            bool isYesterdayShabbos = IsYesterdayShabbos(date);
             bool isCheshvanShort = IsCheshvanShort(year);
             bool isKislevLong = IsKislevLong(year);
             bool isLeapYear = IsLeapYear(year);
@@ -103,7 +100,7 @@ namespace JewishCalendarUWP
                 case Months.AdarI:
                     if (!isLeapYear)
                     {
-                        if ((day == 11 && IsShabbos(year, month, day + 2)) || (day == 13 && !isShabbos))
+                        if ((day == 11 && IsShabbos(date.GregDate.Subtract(new TimeSpan(1, 0, 0, 0)))) || (day == 13 && !isShabbos))
                         {
                             specialDates.Add(SpecialDates.FastOfEsther);
                         }
@@ -125,7 +122,7 @@ namespace JewishCalendarUWP
                     }
                     break;
                 case Months.AdarII:
-                    if ((day == 11 && IsShabbos(year, month, day + 2)) || (day == 13 && !isShabbos))
+                    if ((day == 11 && IsShabbos(date.GregDate.Subtract(new TimeSpan(1, 0, 0, 0)))) || (day == 13 && !isShabbos))
                     {
                         specialDates.Add(SpecialDates.FastOfEsther);
                     }
@@ -139,7 +136,7 @@ namespace JewishCalendarUWP
                     }
                     break;
                 case Months.Nissan:
-                    if ((day == 14 && !isShabbos) || (day == 12 && IsShabbos(year, month, day + 2)))
+                    if ((day == 14 && !isShabbos) || (day == 12 && IsShabbos(date.GregDate.Subtract(new TimeSpan(1, 0, 0, 0)))))
                     {
                         specialDates.Add(SpecialDates.FastOfTheFirstborn);
                     }
@@ -187,7 +184,7 @@ namespace JewishCalendarUWP
             }
 
             //Check if Rosh Chodesh
-            if (IsRoshChodesh(year, month, day))
+            if (IsRoshChodesh(date))
             {
                 specialDates.Add(SpecialDates.RoshChodesh);
             }
@@ -195,9 +192,9 @@ namespace JewishCalendarUWP
             return specialDates;
         }
 
-        public static bool IsLeapYear(DateTime date)
+        public static bool IsLeapYear(JewishDate date)
         {
-            return IsLeapYear(new JewishDate(date).Year);
+            return IsLeapYear(date.Year);
         }
 
         public static bool IsLeapYear(int year)
@@ -207,28 +204,20 @@ namespace JewishCalendarUWP
             return hebCal.IsLeapYear(year);
         }
 
-        public static bool IsShabbos(DateTime date)
+        public static bool IsShabbos(JewishDate date)
         {
             HebrewCalendar hebCal = new HebrewCalendar();
 
             return (hebCal.GetDayOfWeek(date) == DayOfWeek.Saturday);
         }
 
-        public static bool IsShabbos(int year, int month, int day)
-        {
-            return IsShabbos(new JewishDate(year, month, day).GregDate);
-        }
 
-        public static bool IsYesterdayShabbos(DateTime date)
+
+        public static bool IsYesterdayShabbos(JewishDate date)
         {
-            DateTime yesterday = date.Subtract(new TimeSpan(1, 0, 0, 0));
+            DateTime yesterday = date.GregDate.Subtract(new TimeSpan(1, 0, 0, 0));
 
             return IsShabbos(yesterday);
-        }
-
-        public static bool IsYesterdayShabbos(int year, int month, int day)
-        {
-            return IsYesterdayShabbos(new JewishDate(year, month, day).GregDate);
         }
 
         public static bool IsCheshvanShort(int year)
@@ -246,23 +235,17 @@ namespace JewishCalendarUWP
         }
 
 
-        public static bool IsRoshChodesh(DateTime date)
-        {
-            JewishDate jd = new JewishDate(date);
-
-            return IsRoshChodesh(jd.Year, jd.Month, jd.Day);
-        }
-
-        public static bool IsRoshChodesh(int year, int month, int day)
+        public static bool IsRoshChodesh(JewishDate date)
         {
             //Rosh Hashana isn't considered a Rosh Chodesh
-            if (day == 30 || (day == 1 && month != (int)Months.Tishrei))
+            if (date.Day == 30 || (date.Day == 1 && date.Month != (int)Months.Tishrei))
             {
                 return true;
             }
 
             return false;
         }
+
     }
 
 
