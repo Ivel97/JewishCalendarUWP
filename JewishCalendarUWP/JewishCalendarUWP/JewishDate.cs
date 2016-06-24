@@ -6,7 +6,7 @@ namespace JewishCalendarUWP
     /// <summary>
     /// A class that simplifies converting between Hebrew and Gregorian dates.
     /// </summary>
-    public class JewishDate
+    public struct JewishDate
     {
         public DateTime GregDate { get; }
         public int Year { get; }
@@ -43,6 +43,16 @@ namespace JewishCalendarUWP
             Year = hebCal.GetYear(date);
             Month = hebCal.GetMonth(date);
             Day = hebCal.GetDayOfMonth(date);
+        }
+
+        public static implicit operator DateTime(JewishDate date)
+        {
+            return date.GregDate;
+        }
+
+        public static implicit operator JewishDate(DateTime date)
+        {
+            return new JewishDate(date);
         }
     }
 }
