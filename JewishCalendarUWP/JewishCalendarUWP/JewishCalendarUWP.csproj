@@ -109,6 +109,11 @@
   <ItemGroup>
     <Compile Include="JewishCalendar.cs" />
     <Compile Include="JewishDate.cs" />
+    <Compile Include="Parsha\Enum.cs" />
+    <Compile Include="Parsha\ParshaCalculator.cs" />
+    <Compile Include="Parsha\PosukLocation.cs" />
+    <Compile Include="Parsha\PosukSpan.cs" />
+    <Compile Include="Parsha\TorahReading.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\JewishCalendarUWP.rd.xml" />
   </ItemGroup>
