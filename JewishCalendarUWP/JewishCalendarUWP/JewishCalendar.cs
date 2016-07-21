@@ -24,6 +24,54 @@ namespace JewishCalendarUWP
     //Performance decrease shouldn't really be noticeable.
     public class JewishCalendar
     {
+        // Measured in ticks.
+        private static long LunerMonthRemainder = 1322433333069;
+        private static long SimpleLunerYearRemainder = 3773199999708;
+        private static long LeapLunerYearRemainder = 5095633333137;
+        private static long NineteenYearCycleRemainder = 2323833333135;
+
+        /// <summary>
+        /// Returns the Molad as a TimeSpan. The number of days mark the day of the week
+        /// </summary>
+        /// <param name="year">Jewish Year</param>
+        /// <param name="month">Jewish Month</param>
+        /// <returns></returns>
+        public static TimeSpan GetMolad(int year, int month)
+        {
+            TimeSpan molad = TimeSpan.FromTicks(1698799999932); //6 hours have been subtracted from the Rambam's Molad Tohu as our night starts at 12AM
+          
+            year--; //Number of complete years
+
+            int cycleNum = year / 19;
+            int yearInCycle = year % 19;
+
+            molad = molad.Add(TimeSpan.FromTicks(cycleNum * NineteenYearCycleRemainder)); //For past cycles
+
+            for (int i = 1; i <= yearInCycle; i++) 
+            {
+                if (IsLeapYear(cycleNum * 19 + i))
+                {
+                    molad = molad.Add(TimeSpan.FromTicks(LeapLunerYearRemainder));
+                }
+                else
+                {
+                    molad = molad.Add(TimeSpan.FromTicks(SimpleLunerYearRemainder));
+                }
+            }
+
+            molad = molad.Add(TimeSpan.FromTicks((month - 1) * LunerMonthRemainder)); //For every month after Tishrei
+
+            int moladDays = molad.Days % 7;
+            if (moladDays == 0)
+            {
+                moladDays = 7;
+            }
+
+            molad = new TimeSpan(moladDays, molad.Hours, molad.Minutes, molad.Seconds);
+
+            return molad;
+        }
+
         public static IList<SpecialDates> GetDayInfo(JewishDate date, bool inIsrael)
         {
             IList<SpecialDates> specialDates = new List<SpecialDates>();
@@ -211,8 +259,6 @@ namespace JewishCalendarUWP
             return (hebCal.GetDayOfWeek(date) == DayOfWeek.Saturday);
         }
 
-
-
         public static bool IsYesterdayShabbos(JewishDate date)
         {
             DateTime yesterday = date.GregDate.Subtract(new TimeSpan(1, 0, 0, 0));
@@ -233,7 +279,6 @@ namespace JewishCalendarUWP
 
             return (hebCal.GetDaysInMonth(year, 3) == 30);
         }
-
 
         public static bool IsRoshChodesh(JewishDate date)
         {
