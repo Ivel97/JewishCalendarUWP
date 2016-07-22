@@ -148,7 +148,7 @@ namespace JewishCalendarUWP
                 case Months.AdarI:
                     if (!isLeapYear)
                     {
-                        if ((day == 11 && IsShabbos(date.GregDate.Subtract(new TimeSpan(1, 0, 0, 0)))) || (day == 13 && !isShabbos))
+                        if ((day == 11 && IsShabbos(date.Add(new TimeSpan(2, 0, 0, 0)))) || (day == 13 && !isShabbos))
                         {
                             specialDates.Add(SpecialDates.FastOfEsther);
                         }
@@ -170,7 +170,7 @@ namespace JewishCalendarUWP
                     }
                     break;
                 case Months.AdarII:
-                    if ((day == 11 && IsShabbos(date.GregDate.Subtract(new TimeSpan(1, 0, 0, 0)))) || (day == 13 && !isShabbos))
+                    if ((day == 11 && IsShabbos(date.Add(new TimeSpan(2, 0, 0, 0)))) || (day == 13 && !isShabbos))
                     {
                         specialDates.Add(SpecialDates.FastOfEsther);
                     }
@@ -184,7 +184,7 @@ namespace JewishCalendarUWP
                     }
                     break;
                 case Months.Nissan:
-                    if ((day == 14 && !isShabbos) || (day == 12 && IsShabbos(date.GregDate.Subtract(new TimeSpan(1, 0, 0, 0)))))
+                    if ((day == 14 && !isShabbos) || (day == 12 && IsShabbos(date.Add(new TimeSpan(2, 0, 0, 0)))))
                     {
                         specialDates.Add(SpecialDates.FastOfTheFirstborn);
                     }
@@ -261,7 +261,7 @@ namespace JewishCalendarUWP
 
         public static bool IsYesterdayShabbos(JewishDate date)
         {
-            DateTime yesterday = date.GregDate.Subtract(new TimeSpan(1, 0, 0, 0));
+            DateTime yesterday = date.Subtract(new TimeSpan(1, 0, 0, 0));
 
             return IsShabbos(yesterday);
         }
