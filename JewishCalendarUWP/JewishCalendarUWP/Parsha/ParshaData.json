@@ -1,0 +1,7304 @@
+[
+  {
+    "TorahPortion": "Bereshit",
+    "HebrewName": "בְּרֵאשִׁית",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 1,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 2,
+          "Posuk": 3
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 2,
+          "Posuk": 4
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 2,
+          "Posuk": 19
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 2,
+          "Posuk": 20
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 3,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 3,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 4,
+          "Posuk": 18
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 4,
+          "Posuk": 19
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 4,
+          "Posuk": 22
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 4,
+          "Posuk": 23
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 5,
+          "Posuk": 24
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 5,
+          "Posuk": 25
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 6,
+          "Posuk": 8
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 6,
+        "Posuk": 5
+      },
+      "EndPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 6,
+        "Posuk": 8
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 42,
+          "Posuk": 5
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 43,
+          "Posuk": 10
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 42,
+          "Posuk": 5
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 42,
+          "Posuk": 21
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Noach",
+    "HebrewName": "נֹחַ",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 6,
+          "Posuk": 9
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 6,
+          "Posuk": 22
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 7,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 7,
+          "Posuk": 16
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 7,
+          "Posuk": 17
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 8,
+          "Posuk": 14
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 8,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 9,
+          "Posuk": 7
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 9,
+          "Posuk": 8
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 9,
+          "Posuk": 17
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 9,
+          "Posuk": 18
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 10,
+          "Posuk": 32
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 11,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 11,
+          "Posuk": 32
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 11,
+        "Posuk": 29
+      },
+      "EndPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 11,
+        "Posuk": 32
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 54,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 55,
+          "Posuk": 5
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 54,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 54,
+          "Posuk": 10
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Lech-Lecha",
+    "HebrewName": "לֶךְ־לְךָ",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 12,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 12,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 12,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 13,
+          "Posuk": 4
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 13,
+          "Posuk": 5
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 13,
+          "Posuk": 18
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 14,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 14,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 14,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 15,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 15,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 17,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 17,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 17,
+          "Posuk": 27
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 17,
+        "Posuk": 24
+      },
+      "EndPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 17,
+        "Posuk": 27
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 40,
+          "Posuk": 27
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 41,
+          "Posuk": 16
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Vayera",
+    "HebrewName": "וַיֵּרָא",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 18,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 18,
+          "Posuk": 14
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 18,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 18,
+          "Posuk": 33
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 19,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 19,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 19,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 21,
+          "Posuk": 4
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 21,
+          "Posuk": 5
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 21,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 21,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 21,
+          "Posuk": 34
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 22,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 22,
+          "Posuk": 24
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 22,
+        "Posuk": 20
+      },
+      "EndPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 22,
+        "Posuk": 24
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "II Kings",
+          "Perek": 4,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "II Kings",
+          "Perek": 4,
+          "Posuk": 37
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "II Kings",
+          "Perek": 4,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "II Kings",
+          "Perek": 4,
+          "Posuk": 23
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Chayei Sara",
+    "HebrewName": "חַיֵּי שָֹרָה",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 23,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 23,
+          "Posuk": 16
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 23,
+          "Posuk": 17
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 24,
+          "Posuk": 9
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 24,
+          "Posuk": 10
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 24,
+          "Posuk": 26
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 24,
+          "Posuk": 27
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 24,
+          "Posuk": 52
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 24,
+          "Posuk": 53
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 24,
+          "Posuk": 67
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 25,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 25,
+          "Posuk": 11
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 25,
+          "Posuk": 12
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 25,
+          "Posuk": 18
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 25,
+        "Posuk": 16
+      },
+      "EndPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 25,
+        "Posuk": 18
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 1,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 1,
+          "Posuk": 31
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Toldot",
+    "HebrewName": "תּוֹלְדוֹת",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 25,
+          "Posuk": 19
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 26,
+          "Posuk": 5
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 26,
+          "Posuk": 6
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 26,
+          "Posuk": 12
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 26,
+          "Posuk": 13
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 26,
+          "Posuk": 22
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 26,
+          "Posuk": 23
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 26,
+          "Posuk": 29
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 26,
+          "Posuk": 30
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 27,
+          "Posuk": 27
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 27,
+          "Posuk": 28
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 28,
+          "Posuk": 4
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 28,
+          "Posuk": 5
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 28,
+          "Posuk": 9
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 28,
+        "Posuk": 7
+      },
+      "EndPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 28,
+        "Posuk": 9
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Malachi",
+          "Perek": 1,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Malachi",
+          "Perek": 2,
+          "Posuk": 7
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Vayetzei",
+    "HebrewName": "וַיֵּצֵא",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 28,
+          "Posuk": 10
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 28,
+          "Posuk": 22
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 29,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 29,
+          "Posuk": 17
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 29,
+          "Posuk": 18
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 30,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 30,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 30,
+          "Posuk": 27
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 30,
+          "Posuk": 28
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 31,
+          "Posuk": 16
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 31,
+          "Posuk": 17
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 31,
+          "Posuk": 42
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 31,
+          "Posuk": 43
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 32,
+          "Posuk": 3
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 32,
+        "Posuk": 1
+      },
+      "EndPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 32,
+        "Posuk": 3
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Hosea",
+          "Perek": 12,
+          "Posuk": 13
+        },
+        "EndPosuk": {
+          "Sefer": "Hosea",
+          "Perek": 14,
+          "Posuk": 10
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "Hosea",
+          "Perek": 11,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Hosea",
+          "Perek": 12,
+          "Posuk": 12
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Vayishlach",
+    "HebrewName": "וַיִּשְׁלַח",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 32,
+          "Posuk": 4
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 32,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 32,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 32,
+          "Posuk": 30
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 32,
+          "Posuk": 31
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 33,
+          "Posuk": 5
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 33,
+          "Posuk": 6
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 33,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 34,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 35,
+          "Posuk": 11
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 35,
+          "Posuk": 12
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 36,
+          "Posuk": 19
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 36,
+          "Posuk": 20
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 36,
+          "Posuk": 43
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 36,
+        "Posuk": 40
+      },
+      "EndPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 36,
+        "Posuk": 43
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Obadiah",
+          "Perek": 1,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Obadiah",
+          "Perek": 1,
+          "Posuk": 21
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Vayeshev",
+    "HebrewName": "וַיֵּשֶׁב",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 37,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 37,
+          "Posuk": 11
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 37,
+          "Posuk": 12
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 37,
+          "Posuk": 22
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 37,
+          "Posuk": 23
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 37,
+          "Posuk": 36
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 38,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 38,
+          "Posuk": 30
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 39,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 39,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 39,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 39,
+          "Posuk": 23
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 40,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 40,
+          "Posuk": 23
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 40,
+        "Posuk": 20
+      },
+      "EndPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 40,
+        "Posuk": 23
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Amos",
+          "Perek": 2,
+          "Posuk": 6
+        },
+        "EndPosuk": {
+          "Sefer": "Amos",
+          "Perek": 3,
+          "Posuk": 8
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Miketz",
+    "HebrewName": "מִקֵּץ",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 41,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 41,
+          "Posuk": 14
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 41,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 41,
+          "Posuk": 38
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 41,
+          "Posuk": 39
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 41,
+          "Posuk": 52
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 41,
+          "Posuk": 53
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 42,
+          "Posuk": 18
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 42,
+          "Posuk": 19
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 43,
+          "Posuk": 15
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 43,
+          "Posuk": 16
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 43,
+          "Posuk": 29
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 43,
+          "Posuk": 30
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 44,
+          "Posuk": 17
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 44,
+        "Posuk": 14
+      },
+      "EndPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 44,
+        "Posuk": 17
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 3,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 4,
+          "Posuk": 1
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Vayigash",
+    "HebrewName": "וַיִּגַּשׁ",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 44,
+          "Posuk": 18
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 44,
+          "Posuk": 30
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 44,
+          "Posuk": 31
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 45,
+          "Posuk": 7
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 45,
+          "Posuk": 8
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 45,
+          "Posuk": 18
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 45,
+          "Posuk": 19
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 45,
+          "Posuk": 27
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 45,
+          "Posuk": 28
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 46,
+          "Posuk": 27
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 46,
+          "Posuk": 28
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 47,
+          "Posuk": 10
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 47,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 47,
+          "Posuk": 27
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 47,
+        "Posuk": 25
+      },
+      "EndPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 47,
+        "Posuk": 27
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Ezekiel",
+          "Perek": 37,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Ezekiel",
+          "Perek": 37,
+          "Posuk": 28
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Vayechi",
+    "HebrewName": "וַיְחִי",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 47,
+          "Posuk": 28
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 48,
+          "Posuk": 9
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 48,
+          "Posuk": 10
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 48,
+          "Posuk": 16
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 48,
+          "Posuk": 17
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 48,
+          "Posuk": 22
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 49,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 49,
+          "Posuk": 18
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 49,
+          "Posuk": 19
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 49,
+          "Posuk": 26
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 49,
+          "Posuk": 27
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 50,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 50,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Genesis",
+          "Perek": 50,
+          "Posuk": 26
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 50,
+        "Posuk": 23
+      },
+      "EndPosuk": {
+        "Sefer": "Genesis",
+        "Perek": 50,
+        "Posuk": 26
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 2,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 2,
+          "Posuk": 12
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Shemot",
+    "HebrewName": "שְׁמוֹת",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 1,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 1,
+          "Posuk": 17
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 1,
+          "Posuk": 18
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 2,
+          "Posuk": 10
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 2,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 2,
+          "Posuk": 25
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 3,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 3,
+          "Posuk": 15
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 3,
+          "Posuk": 16
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 4,
+          "Posuk": 17
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 4,
+          "Posuk": 18
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 4,
+          "Posuk": 31
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 5,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 6,
+          "Posuk": 1
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 5,
+        "Posuk": 22
+      },
+      "EndPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 6,
+        "Posuk": 1
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 27,
+          "Posuk": 6
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 28,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "",
+          "Perek": 29,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "",
+          "Perek": 29,
+          "Posuk": 23
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 1,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 2,
+          "Posuk": 3
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Vaera",
+    "HebrewName": "וָאֵרָא",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 6,
+          "Posuk": 2
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 6,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 6,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 6,
+          "Posuk": 28
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 6,
+          "Posuk": 29
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 7,
+          "Posuk": 7
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 7,
+          "Posuk": 8
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 8,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 8,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 8,
+          "Posuk": 18
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 8,
+          "Posuk": 19
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 9,
+          "Posuk": 16
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 9,
+          "Posuk": 17
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 9,
+          "Posuk": 35
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 9,
+        "Posuk": 33
+      },
+      "EndPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 9,
+        "Posuk": 35
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Ezekiel",
+          "Perek": 28,
+          "Posuk": 25
+        },
+        "EndPosuk": {
+          "Sefer": "Ezekiel",
+          "Perek": 29,
+          "Posuk": 21
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Bo",
+    "HebrewName": "בֹּא",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 10,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 10,
+          "Posuk": 11
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 10,
+          "Posuk": 12
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 10,
+          "Posuk": 23
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 10,
+          "Posuk": 24
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 11,
+          "Posuk": 3
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 11,
+          "Posuk": 4
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 12,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 12,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 12,
+          "Posuk": 28
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 12,
+          "Posuk": 29
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 12,
+          "Posuk": 51
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 13,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 13,
+          "Posuk": 16
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 13,
+        "Posuk": 14
+      },
+      "EndPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 13,
+        "Posuk": 16
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 46,
+          "Posuk": 13
+        },
+        "EndPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 46,
+          "Posuk": 28
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Beshalach",
+    "HebrewName": "בְּשַׁלַּח",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 13,
+          "Posuk": 17
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 14,
+          "Posuk": 8
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 14,
+          "Posuk": 9
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 14,
+          "Posuk": 14
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 14,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 14,
+          "Posuk": 25
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 14,
+          "Posuk": 26
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 15,
+          "Posuk": 26
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 15,
+          "Posuk": 27
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 16,
+          "Posuk": 10
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 16,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 16,
+          "Posuk": 36
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 17,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 17,
+          "Posuk": 16
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 17,
+        "Posuk": 14
+      },
+      "EndPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 17,
+        "Posuk": 16
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Judges",
+          "Perek": 4,
+          "Posuk": 4
+        },
+        "EndPosuk": {
+          "Sefer": "Judges",
+          "Perek": 5,
+          "Posuk": 31
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "Judges",
+          "Perek": 5,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Judges",
+          "Perek": 5,
+          "Posuk": 31
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Yitro",
+    "HebrewName": "יִתְרוֹ",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 18,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 18,
+          "Posuk": 12
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 18,
+          "Posuk": 13
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 18,
+          "Posuk": 23
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 18,
+          "Posuk": 24
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 18,
+          "Posuk": 27
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 19,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 19,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 19,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 19,
+          "Posuk": 19
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 19,
+          "Posuk": 20
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 20,
+          "Posuk": 14
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 20,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 20,
+          "Posuk": 23
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 20,
+        "Posuk": 19
+      },
+      "EndPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 20,
+        "Posuk": 23
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 6,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 7,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "",
+          "Perek": 9,
+          "Posuk": 5
+        },
+        "EndPosuk": {
+          "Sefer": "",
+          "Perek": 9,
+          "Posuk": 6
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 6,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 6,
+          "Posuk": 13
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Mishpatim",
+    "HebrewName": "מִּשְׁפָּטִים",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 21,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 21,
+          "Posuk": 19
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 21,
+          "Posuk": 20
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 22,
+          "Posuk": 3
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 22,
+          "Posuk": 4
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 22,
+          "Posuk": 26
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 22,
+          "Posuk": 27
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 23,
+          "Posuk": 5
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 23,
+          "Posuk": 6
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 23,
+          "Posuk": 19
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 23,
+          "Posuk": 20
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 23,
+          "Posuk": 25
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 23,
+          "Posuk": 26
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 24,
+          "Posuk": 18
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 24,
+        "Posuk": 15
+      },
+      "EndPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 24,
+        "Posuk": 18
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 34,
+          "Posuk": 8
+        },
+        "EndPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 34,
+          "Posuk": 22
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "",
+          "Perek": 33,
+          "Posuk": 25
+        },
+        "EndPosuk": {
+          "Sefer": "",
+          "Perek": 33,
+          "Posuk": 26
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Terumah",
+    "HebrewName": "תְּרוּמָה",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 25,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 25,
+          "Posuk": 16
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 25,
+          "Posuk": 17
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 25,
+          "Posuk": 30
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 25,
+          "Posuk": 31
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 26,
+          "Posuk": 14
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 26,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 26,
+          "Posuk": 30
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 26,
+          "Posuk": 31
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 26,
+          "Posuk": 37
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 27,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 27,
+          "Posuk": 8
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 27,
+          "Posuk": 9
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 27,
+          "Posuk": 19
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 27,
+        "Posuk": 17
+      },
+      "EndPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 27,
+        "Posuk": 19
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 5,
+          "Posuk": 26
+        },
+        "EndPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 6,
+          "Posuk": 13
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Tetzaveh",
+    "HebrewName": "תְּצַוֶּה",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 27,
+          "Posuk": 20
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 28,
+          "Posuk": 12
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 28,
+          "Posuk": 13
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 28,
+          "Posuk": 30
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 28,
+          "Posuk": 31
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 28,
+          "Posuk": 43
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 29,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 29,
+          "Posuk": 18
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 29,
+          "Posuk": 19
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 29,
+          "Posuk": 37
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 29,
+          "Posuk": 38
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 29,
+          "Posuk": 46
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 30,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 30,
+          "Posuk": 10
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 30,
+        "Posuk": 8
+      },
+      "EndPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 30,
+        "Posuk": 10
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Ezekiel",
+          "Perek": 43,
+          "Posuk": 10
+        },
+        "EndPosuk": {
+          "Sefer": "Ezekiel",
+          "Perek": 43,
+          "Posuk": 27
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Ki Tisa",
+    "HebrewName": "כִּי תִשָּׂא",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 30,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 31,
+          "Posuk": 17
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 31,
+          "Posuk": 18
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 33,
+          "Posuk": 11
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 33,
+          "Posuk": 12
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 33,
+          "Posuk": 16
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 33,
+          "Posuk": 17
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 33,
+          "Posuk": 23
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 34,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 34,
+          "Posuk": 9
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 34,
+          "Posuk": 10
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 34,
+          "Posuk": 26
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 34,
+          "Posuk": 27
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 34,
+          "Posuk": 35
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 34,
+        "Posuk": 33
+      },
+      "EndPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 34,
+        "Posuk": 35
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 18,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 18,
+          "Posuk": 39
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 18,
+          "Posuk": 20
+        },
+        "EndPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 18,
+          "Posuk": 39
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Vayakhel",
+    "HebrewName": "וַיַּקְהֵל",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 35,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 35,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 35,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 35,
+          "Posuk": 29
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 35,
+          "Posuk": 30
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 36,
+          "Posuk": 7
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 36,
+          "Posuk": 8
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 36,
+          "Posuk": 19
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 36,
+          "Posuk": 20
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 37,
+          "Posuk": 16
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 37,
+          "Posuk": 17
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 37,
+          "Posuk": 29
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 38,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 38,
+          "Posuk": 20
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 38,
+        "Posuk": 18
+      },
+      "EndPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 38,
+        "Posuk": 20
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 7,
+          "Posuk": 40
+        },
+        "EndPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 7,
+          "Posuk": 50
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 7,
+          "Posuk": 13
+        },
+        "EndPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 7,
+          "Posuk": 26
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Pekudei",
+    "HebrewName": "פְקוּדֵי",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 38,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 39,
+          "Posuk": 1
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 39,
+          "Posuk": 2
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 39,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 39,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 39,
+          "Posuk": 32
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 39,
+          "Posuk": 33
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 39,
+          "Posuk": 43
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 40,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 40,
+          "Posuk": 16
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 40,
+          "Posuk": 17
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 40,
+          "Posuk": 27
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 40,
+          "Posuk": 28
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 40,
+          "Posuk": 38
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 40,
+        "Posuk": 34
+      },
+      "EndPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 40,
+        "Posuk": 38
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 7,
+          "Posuk": 51
+        },
+        "EndPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 8,
+          "Posuk": 21
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 7,
+          "Posuk": 40
+        },
+        "EndPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 7,
+          "Posuk": 50
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Vayikra",
+    "HebrewName": "וַיִּקְרָא",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 1,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 1,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 1,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 2,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 2,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 2,
+          "Posuk": 16
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 3,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 3,
+          "Posuk": 17
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 4,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 4,
+          "Posuk": 26
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 4,
+          "Posuk": 27
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 5,
+          "Posuk": 10
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 5,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 5,
+          "Posuk": 26
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 5,
+        "Posuk": 24
+      },
+      "EndPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 5,
+        "Posuk": 26
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 43,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 44,
+          "Posuk": 23
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Tzav",
+    "HebrewName": "צַו",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 6,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 6,
+          "Posuk": 11
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 6,
+          "Posuk": 12
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 7,
+          "Posuk": 10
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 7,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 7,
+          "Posuk": 38
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 8,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 8,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 8,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 8,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 8,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 8,
+          "Posuk": 29
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 8,
+          "Posuk": 30
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 8,
+          "Posuk": 36
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 8,
+        "Posuk": 33
+      },
+      "EndPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 8,
+        "Posuk": 36
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 7,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 8,
+          "Posuk": 3
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "",
+          "Perek": 9,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "",
+          "Perek": 9,
+          "Posuk": 23
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Shmini",
+    "HebrewName": "שְּׁמִינִי",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 9,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 9,
+          "Posuk": 16
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 9,
+          "Posuk": 17
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 9,
+          "Posuk": 23
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 9,
+          "Posuk": 24
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 10,
+          "Posuk": 11
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 10,
+          "Posuk": 12
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 10,
+          "Posuk": 15
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 10,
+          "Posuk": 16
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 10,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 11,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 11,
+          "Posuk": 32
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 11,
+          "Posuk": 33
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 11,
+          "Posuk": 47
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 11,
+        "Posuk": 45
+      },
+      "EndPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 11,
+        "Posuk": 47
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "II Samuel",
+          "Perek": 6,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "II Samuel",
+          "Perek": 7,
+          "Posuk": 17
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "II Samuel",
+          "Perek": 6,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "II Samuel",
+          "Perek": 6,
+          "Posuk": 19
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Tazria",
+    "HebrewName": "תַזְרִיעַ",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 12,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 5
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 6
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 17
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 18
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 23
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 24
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 28
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 29
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 39
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 40
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 54
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 55
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 59
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 13,
+        "Posuk": 57
+      },
+      "EndPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 13,
+        "Posuk": 59
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "II Kings",
+          "Perek": 4,
+          "Posuk": 42
+        },
+        "EndPosuk": {
+          "Sefer": "II Kings",
+          "Perek": 5,
+          "Posuk": 19
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Metzora",
+    "HebrewName": "מְּצֹרָע",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 14,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 14,
+          "Posuk": 12
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 14,
+          "Posuk": 13
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 14,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 14,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 14,
+          "Posuk": 32
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 14,
+          "Posuk": 33
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 14,
+          "Posuk": 53
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 14,
+          "Posuk": 54
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 15,
+          "Posuk": 15
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 15,
+          "Posuk": 16
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 15,
+          "Posuk": 28
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 15,
+          "Posuk": 29
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 15,
+          "Posuk": 33
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 15,
+        "Posuk": 31
+      },
+      "EndPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 15,
+        "Posuk": 33
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "II Kings",
+          "Perek": 7,
+          "Posuk": 3
+        },
+        "EndPosuk": {
+          "Sefer": "II Kings",
+          "Perek": 7,
+          "Posuk": 20
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Achrei Mot",
+    "HebrewName": "אַחֲרֵי מוֹת",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 16,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 16,
+          "Posuk": 17
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 16,
+          "Posuk": 18
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 16,
+          "Posuk": 24
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 16,
+          "Posuk": 25
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 16,
+          "Posuk": 34
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 17,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 17,
+          "Posuk": 7
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 17,
+          "Posuk": 8
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 18,
+          "Posuk": 5
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 18,
+          "Posuk": 6
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 18,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 18,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 18,
+          "Posuk": 30
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 18,
+        "Posuk": 28
+      },
+      "EndPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 18,
+        "Posuk": 30
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Ezekiel",
+          "Perek": 22,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Ezekiel",
+          "Perek": 22,
+          "Posuk": 19
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "Ezekiel",
+          "Perek": 22,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Ezekiel",
+          "Perek": 22,
+          "Posuk": 16
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Kedoshim",
+    "HebrewName": "קְדשִׁים",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 19,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 19,
+          "Posuk": 14
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 19,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 19,
+          "Posuk": 22
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 19,
+          "Posuk": 23
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 19,
+          "Posuk": 32
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 19,
+          "Posuk": 33
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 19,
+          "Posuk": 37
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 20,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 20,
+          "Posuk": 7
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 20,
+          "Posuk": 8
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 20,
+          "Posuk": 22
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 20,
+          "Posuk": 23
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 20,
+          "Posuk": 27
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 20,
+        "Posuk": 25
+      },
+      "EndPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 20,
+        "Posuk": 27
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Amos",
+          "Perek": 9,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Amos",
+          "Perek": 9,
+          "Posuk": 15
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "Ezekiel",
+          "Perek": 20,
+          "Posuk": 2
+        },
+        "EndPosuk": {
+          "Sefer": "Ezekiel",
+          "Perek": 20,
+          "Posuk": 20
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Emor",
+    "HebrewName": "אֱמוֹר",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 21,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 21,
+          "Posuk": 15
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 21,
+          "Posuk": 16
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 22,
+          "Posuk": 16
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 22,
+          "Posuk": 17
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 22,
+          "Posuk": 33
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 23,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 23,
+          "Posuk": 22
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 23,
+          "Posuk": 23
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 23,
+          "Posuk": 32
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 23,
+          "Posuk": 33
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 23,
+          "Posuk": 44
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 24,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 24,
+          "Posuk": 23
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 24,
+        "Posuk": 21
+      },
+      "EndPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 24,
+        "Posuk": 23
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Ezekiel",
+          "Perek": 44,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Ezekiel",
+          "Perek": 44,
+          "Posuk": 31
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Behar",
+    "HebrewName": "בְּהַר",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 18
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 19
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 24
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 25
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 28
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 29
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 38
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 39
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 46
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 47
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 26,
+          "Posuk": 2
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 25,
+        "Posuk": 55
+      },
+      "EndPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 26,
+        "Posuk": 2
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 32,
+          "Posuk": 6
+        },
+        "EndPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 32,
+          "Posuk": 27
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Bechukotai",
+    "HebrewName": "בְּחֻקֹּתַי",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 26,
+          "Posuk": 3
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 26,
+          "Posuk": 5
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 26,
+          "Posuk": 6
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 26,
+          "Posuk": 9
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 26,
+          "Posuk": 10
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 26,
+          "Posuk": 46
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 27,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 27,
+          "Posuk": 15
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 27,
+          "Posuk": 16
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 27,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 27,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 27,
+          "Posuk": 28
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 27,
+          "Posuk": 29
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 27,
+          "Posuk": 34
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 27,
+        "Posuk": 32
+      },
+      "EndPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 27,
+        "Posuk": 34
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 16,
+          "Posuk": 19
+        },
+        "EndPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 17,
+          "Posuk": 14
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Bamidbar",
+    "HebrewName": "בְּמִדְבַּר",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 1,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 1,
+          "Posuk": 19
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 1,
+          "Posuk": 20
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 1,
+          "Posuk": 54
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 2,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 2,
+          "Posuk": 34
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 3,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 3,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 3,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 3,
+          "Posuk": 39
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 3,
+          "Posuk": 40
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 3,
+          "Posuk": 51
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 4,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 4,
+          "Posuk": 20
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 4,
+        "Posuk": 17
+      },
+      "EndPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 4,
+        "Posuk": 20
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Hosea",
+          "Perek": 2,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Hosea",
+          "Perek": 2,
+          "Posuk": 22
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Nasso",
+    "HebrewName": "נָשׂא",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 4,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 4,
+          "Posuk": 37
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 4,
+          "Posuk": 38
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 4,
+          "Posuk": 49
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 5,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 5,
+          "Posuk": 10
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 5,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 6,
+          "Posuk": 27
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 7,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 7,
+          "Posuk": 41
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 7,
+          "Posuk": 42
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 7,
+          "Posuk": 71
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 7,
+          "Posuk": 72
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 7,
+          "Posuk": 89
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 7,
+        "Posuk": 87
+      },
+      "EndPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 7,
+        "Posuk": 89
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Judges",
+          "Perek": 13,
+          "Posuk": 2
+        },
+        "EndPosuk": {
+          "Sefer": "Judges",
+          "Perek": 13,
+          "Posuk": 25
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Beha'alotcha",
+    "HebrewName": "בְּהַעֲלֹתְךָ",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 8,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 8,
+          "Posuk": 14
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 8,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 8,
+          "Posuk": 26
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 9,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 9,
+          "Posuk": 14
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 9,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 10,
+          "Posuk": 10
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 10,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 10,
+          "Posuk": 34
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 10,
+          "Posuk": 35
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 11,
+          "Posuk": 29
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 11,
+          "Posuk": 30
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 12,
+          "Posuk": 16
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 12,
+        "Posuk": 14
+      },
+      "EndPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 12,
+        "Posuk": 16
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Zechariah",
+          "Perek": 2,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Zechariah",
+          "Perek": 4,
+          "Posuk": 7
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Sh'lach",
+    "HebrewName": "שְׁלַח־לְךָ",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 13,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 13,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 13,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 14,
+          "Posuk": 7
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 14,
+          "Posuk": 8
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 14,
+          "Posuk": 25
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 14,
+          "Posuk": 26
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 15,
+          "Posuk": 7
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 15,
+          "Posuk": 8
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 15,
+          "Posuk": 16
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 15,
+          "Posuk": 17
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 15,
+          "Posuk": 26
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 15,
+          "Posuk": 27
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 15,
+          "Posuk": 41
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 15,
+        "Posuk": 37
+      },
+      "EndPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 15,
+        "Posuk": 41
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Joshua",
+          "Perek": 2,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Joshua",
+          "Perek": 2,
+          "Posuk": 24
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Korach",
+    "HebrewName": "קוֹרַח",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 16,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 16,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 16,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 16,
+          "Posuk": 19
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 16,
+          "Posuk": 20
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 17,
+          "Posuk": 8
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 17,
+          "Posuk": 9
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 17,
+          "Posuk": 15
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 17,
+          "Posuk": 16
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 17,
+          "Posuk": 24
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 17,
+          "Posuk": 25
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 18,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 18,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 18,
+          "Posuk": 32
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 18,
+        "Posuk": 30
+      },
+      "EndPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 18,
+        "Posuk": 32
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "I Samuel",
+          "Perek": 11,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "I Samuel",
+          "Perek": 12,
+          "Posuk": 22
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Chukat",
+    "HebrewName": "חֻקַּת",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 19,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 19,
+          "Posuk": 17
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 19,
+          "Posuk": 18
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 20,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 20,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 20,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 20,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 20,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 20,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 21,
+          "Posuk": 9
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 21,
+          "Posuk": 10
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 21,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 21,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 22,
+          "Posuk": 1
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 21,
+        "Posuk": 34
+      },
+      "EndPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 22,
+        "Posuk": 1
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Judges",
+          "Perek": 11,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Judges",
+          "Perek": 11,
+          "Posuk": 33
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Balak",
+    "HebrewName": "בָּלָק",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 22,
+          "Posuk": 2
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 22,
+          "Posuk": 12
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 22,
+          "Posuk": 13
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 22,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 22,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 22,
+          "Posuk": 38
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 22,
+          "Posuk": 39
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 23,
+          "Posuk": 12
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 23,
+          "Posuk": 13
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 23,
+          "Posuk": 26
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 23,
+          "Posuk": 27
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 24,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 24,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 25,
+          "Posuk": 9
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 25,
+        "Posuk": 7
+      },
+      "EndPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 25,
+        "Posuk": 9
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Micah",
+          "Perek": 5,
+          "Posuk": 6
+        },
+        "EndPosuk": {
+          "Sefer": "Micah",
+          "Perek": 6,
+          "Posuk": 8
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Pinchas",
+    "HebrewName": "פִּינְחָס",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 25,
+          "Posuk": 10
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 26,
+          "Posuk": 4
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 26,
+          "Posuk": 5
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 26,
+          "Posuk": 51
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 26,
+          "Posuk": 52
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 27,
+          "Posuk": 5
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 27,
+          "Posuk": 6
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 27,
+          "Posuk": 23
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 28,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 28,
+          "Posuk": 15
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 28,
+          "Posuk": 16
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 29,
+          "Posuk": 11
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 29,
+          "Posuk": 12
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 30,
+          "Posuk": 1
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 29,
+        "Posuk": 35
+      },
+      "EndPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 30,
+        "Posuk": 1
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 18,
+          "Posuk": 46
+        },
+        "EndPosuk": {
+          "Sefer": "I Kings",
+          "Perek": 19,
+          "Posuk": 21
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Matot",
+    "HebrewName": "מַּטּוֹת",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 30,
+          "Posuk": 2
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 30,
+          "Posuk": 17
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 31,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 31,
+          "Posuk": 12
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 31,
+          "Posuk": 13
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 31,
+          "Posuk": 24
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 31,
+          "Posuk": 25
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 31,
+          "Posuk": 41
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 31,
+          "Posuk": 42
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 31,
+          "Posuk": 54
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 32,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 32,
+          "Posuk": 19
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 32,
+          "Posuk": 20
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 32,
+          "Posuk": 42
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 32,
+        "Posuk": 39
+      },
+      "EndPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 32,
+        "Posuk": 42
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 1,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 2,
+          "Posuk": 3
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Masei",
+    "HebrewName": "מַסְעֵי",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 33,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 33,
+          "Posuk": 10
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 33,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 33,
+          "Posuk": 49
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 33,
+          "Posuk": 50
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 34,
+          "Posuk": 15
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 34,
+          "Posuk": 16
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 34,
+          "Posuk": 29
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 35,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 35,
+          "Posuk": 8
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 35,
+          "Posuk": 9
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 35,
+          "Posuk": 34
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 36,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 36,
+          "Posuk": 13
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 36,
+        "Posuk": 11
+      },
+      "EndPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 36,
+        "Posuk": 13
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 2,
+          "Posuk": 4
+        },
+        "EndPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 2,
+          "Posuk": 28
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 3,
+          "Posuk": 4
+        },
+        "EndPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 3,
+          "Posuk": 4
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 2,
+          "Posuk": 4
+        },
+        "EndPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 2,
+          "Posuk": 28
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 4,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Jeremiah",
+          "Perek": 4,
+          "Posuk": 2
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Devarim",
+    "HebrewName": "דְּבָרִים",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 1,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 1,
+          "Posuk": 10
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 1,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 1,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 1,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 1,
+          "Posuk": 38
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 1,
+          "Posuk": 39
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 2,
+          "Posuk": 1
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 2,
+          "Posuk": 2
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 2,
+          "Posuk": 30
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 2,
+          "Posuk": 31
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 3,
+          "Posuk": 14
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 3,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 3,
+          "Posuk": 22
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 3,
+        "Posuk": 20
+      },
+      "EndPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 3,
+        "Posuk": 22
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 1,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 1,
+          "Posuk": 27
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Vaetchanan",
+    "HebrewName": "וָאֶתְחַנַּן",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 3,
+          "Posuk": 23
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 4,
+          "Posuk": 4
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 4,
+          "Posuk": 5
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 4,
+          "Posuk": 40
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 4,
+          "Posuk": 41
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 4,
+          "Posuk": 49
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 5,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 5,
+          "Posuk": 18
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 5,
+          "Posuk": 19
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 6,
+          "Posuk": 3
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 6,
+          "Posuk": 4
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 6,
+          "Posuk": 25
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 7,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 7,
+          "Posuk": 11
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 7,
+        "Posuk": 9
+      },
+      "EndPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 7,
+        "Posuk": 11
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 40,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 40,
+          "Posuk": 26
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Eikev",
+    "HebrewName": "עֵקֶב",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 7,
+          "Posuk": 12
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 8,
+          "Posuk": 10
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 8,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 9,
+          "Posuk": 3
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 9,
+          "Posuk": 4
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 9,
+          "Posuk": 29
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 10,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 10,
+          "Posuk": 11
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 10,
+          "Posuk": 12
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 11,
+          "Posuk": 9
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 11,
+          "Posuk": 10
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 11,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 11,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 11,
+          "Posuk": 25
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 11,
+        "Posuk": 22
+      },
+      "EndPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 11,
+        "Posuk": 25
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 49,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 51,
+          "Posuk": 3
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Re'eh",
+    "HebrewName": "רְאֵה",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 11,
+          "Posuk": 26
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 12,
+          "Posuk": 10
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 12,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 12,
+          "Posuk": 28
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 12,
+          "Posuk": 29
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 13,
+          "Posuk": 19
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 14,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 14,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 14,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 14,
+          "Posuk": 29
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 15,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 15,
+          "Posuk": 18
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 15,
+          "Posuk": 19
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 16,
+          "Posuk": 17
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 16,
+        "Posuk": 13
+      },
+      "EndPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 16,
+        "Posuk": 17
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 54,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 55,
+          "Posuk": 5
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Shoftim",
+    "HebrewName": "שׁוֹפְטִים",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 16,
+          "Posuk": 18
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 17,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 17,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 17,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 18,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 18,
+          "Posuk": 5
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 18,
+          "Posuk": 6
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 18,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 18,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 19,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 19,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 20,
+          "Posuk": 9
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 20,
+          "Posuk": 10
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 21,
+          "Posuk": 9
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 21,
+        "Posuk": 7
+      },
+      "EndPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 21,
+        "Posuk": 9
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 51,
+          "Posuk": 12
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 52,
+          "Posuk": 12
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Ki Teitzei",
+    "HebrewName": "כִּי־תֵצֵא",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 21,
+          "Posuk": 10
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 21,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 21,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 22,
+          "Posuk": 7
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 22,
+          "Posuk": 8
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 23,
+          "Posuk": 7
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 23,
+          "Posuk": 8
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 23,
+          "Posuk": 24
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 23,
+          "Posuk": 25
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 24,
+          "Posuk": 4
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 24,
+          "Posuk": 5
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 24,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 24,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 25,
+          "Posuk": 19
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 25,
+        "Posuk": 17
+      },
+      "EndPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 25,
+        "Posuk": 19
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 54,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 54,
+          "Posuk": 10
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Ki Tavo",
+    "HebrewName": "כִּי־תָבוֹא",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 26,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 26,
+          "Posuk": 11
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 26,
+          "Posuk": 12
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 26,
+          "Posuk": 15
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 26,
+          "Posuk": 16
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 26,
+          "Posuk": 19
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 27,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 27,
+          "Posuk": 10
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 27,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 28,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 28,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 28,
+          "Posuk": 69
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 29,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 29,
+          "Posuk": 8
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 29,
+        "Posuk": 6
+      },
+      "EndPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 29,
+        "Posuk": 8
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 60,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 60,
+          "Posuk": 22
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Nitzavim",
+    "HebrewName": "נִצָּבִים",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 29,
+          "Posuk": 9
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 29,
+          "Posuk": 11
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 29,
+          "Posuk": 12
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 29,
+          "Posuk": 14
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 29,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 29,
+          "Posuk": 28
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 30,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 30,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 30,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 30,
+          "Posuk": 10
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 30,
+          "Posuk": 11
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 30,
+          "Posuk": 14
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 30,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 30,
+          "Posuk": 20
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 30,
+        "Posuk": 15
+      },
+      "EndPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 30,
+        "Posuk": 20
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 61,
+          "Posuk": 10
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 63,
+          "Posuk": 9
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Vayeilech",
+    "HebrewName": "וַיֵּלֶךְ",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 3
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 4
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 9
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 10
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 19
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 20
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 24
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 25
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 30
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 31,
+        "Posuk": 28
+      },
+      "EndPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 31,
+        "Posuk": 30
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 55,
+          "Posuk": 6
+        },
+        "EndPosuk": {
+          "Sefer": "Isaiah",
+          "Perek": 56,
+          "Posuk": 8
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Ha'Azinu",
+    "HebrewName": "הַאֲזִינוּ",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 32,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 32,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 32,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 32,
+          "Posuk": 12
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 32,
+          "Posuk": 13
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 32,
+          "Posuk": 18
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 32,
+          "Posuk": 19
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 32,
+          "Posuk": 28
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 32,
+          "Posuk": 29
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 32,
+          "Posuk": 39
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 32,
+          "Posuk": 40
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 32,
+          "Posuk": 43
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 32,
+          "Posuk": 44
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 32,
+          "Posuk": 52
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 32,
+        "Posuk": 48
+      },
+      "EndPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 32,
+        "Posuk": 52
+      }
+    },
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "II Samuel",
+          "Perek": 22,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "II Samuel",
+          "Perek": 22,
+          "Posuk": 51
+        }
+      }
+    ],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Vezot Haberakhah",
+    "HebrewName": "וְזֹאת הַבְּרָכָה",
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 33,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 33,
+          "Posuk": 7
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 33,
+          "Posuk": 8
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 33,
+          "Posuk": 12
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 33,
+          "Posuk": 13
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 33,
+          "Posuk": 17
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 33,
+          "Posuk": 18
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 33,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 33,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 33,
+          "Posuk": 26
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 33,
+          "Posuk": 27
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 33,
+          "Posuk": 29
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 34,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 34,
+          "Posuk": 12
+        }
+      }
+    ],
+    "Maftir": null,
+    "Haftorah": [
+      {
+        "StartPosuk": {
+          "Sefer": "Joshua",
+          "Perek": 1,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Joshua",
+          "Perek": 1,
+          "Posuk": 18
+        }
+      }
+    ],
+    "HaftorahSephard": [
+      {
+        "StartPosuk": {
+          "Sefer": "Joshua",
+          "Perek": 1,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Joshua",
+          "Perek": 1,
+          "Posuk": 9
+        }
+      }
+    ]
+  },
+  {
+    "TorahPortion": "Vayakhel-Pekudei",
+    "HebrewName": null,
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 35,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 35,
+          "Posuk": 29
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 35,
+          "Posuk": 30
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 37,
+          "Posuk": 16
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 37,
+          "Posuk": 17
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 37,
+          "Posuk": 29
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 38,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 39,
+          "Posuk": 1
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 39,
+          "Posuk": 2
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 39,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 39,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 39,
+          "Posuk": 43
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 40,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Exodus",
+          "Perek": 40,
+          "Posuk": 38
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 40,
+        "Posuk": 34
+      },
+      "EndPosuk": {
+        "Sefer": "Exodus",
+        "Perek": 40,
+        "Posuk": 38
+      }
+    },
+    "Haftorah": [],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Tazria-Metzora",
+    "HebrewName": null,
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 12,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 23
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 24
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 39
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 40
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 54
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 13,
+          "Posuk": 55
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 14,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 14,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 14,
+          "Posuk": 32
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 14,
+          "Posuk": 33
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 15,
+          "Posuk": 15
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 15,
+          "Posuk": 16
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 15,
+          "Posuk": 33
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 15,
+        "Posuk": 31
+      },
+      "EndPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 15,
+        "Posuk": 33
+      }
+    },
+    "Haftorah": [],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Achrei Mot-Kedoshim",
+    "HebrewName": null,
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 16,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 16,
+          "Posuk": 24
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 16,
+          "Posuk": 25
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 17,
+          "Posuk": 7
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 17,
+          "Posuk": 8
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 18,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 18,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 19,
+          "Posuk": 14
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 19,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 19,
+          "Posuk": 32
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 19,
+          "Posuk": 33
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 20,
+          "Posuk": 7
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 20,
+          "Posuk": 8
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 20,
+          "Posuk": 27
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 20,
+        "Posuk": 25
+      },
+      "EndPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 20,
+        "Posuk": 27
+      }
+    },
+    "Haftorah": [],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Behar-Bechukotai",
+    "HebrewName": null,
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 18
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 19
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 28
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 29
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 38
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 25,
+          "Posuk": 39
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 26,
+          "Posuk": 9
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 26,
+          "Posuk": 10
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 26,
+          "Posuk": 46
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 27,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 27,
+          "Posuk": 15
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 27,
+          "Posuk": 16
+        },
+        "EndPosuk": {
+          "Sefer": "Leviticus",
+          "Perek": 27,
+          "Posuk": 34
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 27,
+        "Posuk": 32
+      },
+      "EndPosuk": {
+        "Sefer": "Leviticus",
+        "Perek": 27,
+        "Posuk": 34
+      }
+    },
+    "Haftorah": [],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Chukat-Balak",
+    "HebrewName": null,
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 19,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 20,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 20,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 20,
+          "Posuk": 21
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 20,
+          "Posuk": 22
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 21,
+          "Posuk": 20
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 21,
+          "Posuk": 21
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 22,
+          "Posuk": 12
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 22,
+          "Posuk": 13
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 22,
+          "Posuk": 38
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 22,
+          "Posuk": 39
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 23,
+          "Posuk": 26
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 23,
+          "Posuk": 27
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 25,
+          "Posuk": 9
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 25,
+        "Posuk": 7
+      },
+      "EndPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 25,
+        "Posuk": 9
+      }
+    },
+    "Haftorah": [],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Matot-Masei",
+    "HebrewName": null,
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 30,
+          "Posuk": 2
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 31,
+          "Posuk": 12
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 31,
+          "Posuk": 13
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 31,
+          "Posuk": 54
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 32,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 32,
+          "Posuk": 19
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 32,
+          "Posuk": 20
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 33,
+          "Posuk": 49
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 33,
+          "Posuk": 50
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 34,
+          "Posuk": 15
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 34,
+          "Posuk": 16
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 35,
+          "Posuk": 8
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 35,
+          "Posuk": 9
+        },
+        "EndPosuk": {
+          "Sefer": "Numbers",
+          "Perek": 36,
+          "Posuk": 13
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 36,
+        "Posuk": 11
+      },
+      "EndPosuk": {
+        "Sefer": "Numbers",
+        "Perek": 36,
+        "Posuk": 13
+      }
+    },
+    "Haftorah": [],
+    "HaftorahSephard": null
+  },
+  {
+    "TorahPortion": "Nitzavim-Vayeilech",
+    "HebrewName": null,
+    "Aliyos": [
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 29,
+          "Posuk": 9
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 29,
+          "Posuk": 28
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 30,
+          "Posuk": 1
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 30,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 30,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 30,
+          "Posuk": 14
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 30,
+          "Posuk": 15
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 6
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 7
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 13
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 14
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 19
+        }
+      },
+      {
+        "StartPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 20
+        },
+        "EndPosuk": {
+          "Sefer": "Deuteronomy",
+          "Perek": 31,
+          "Posuk": 30
+        }
+      }
+    ],
+    "Maftir": {
+      "StartPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 31,
+        "Posuk": 28
+      },
+      "EndPosuk": {
+        "Sefer": "Deuteronomy",
+        "Perek": 31,
+        "Posuk": 30
+      }
+    },
+    "Haftorah": [],
+    "HaftorahSephard": null
+  }
+]
