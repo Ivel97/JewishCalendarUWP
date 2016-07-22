@@ -54,5 +54,26 @@ namespace JewishCalendarUWP
         {
             return new JewishDate(date);
         }
+
+        /// <summary>
+        /// Returns a new JewishDate with the TimeSpan added.
+        /// </summary>
+        /// <param name="timeSpan">The TimeSpan to be added</param>
+        /// <returns></returns>
+        public JewishDate Add(TimeSpan timeSpan)
+        {
+            return new JewishDate(GregDate.Add(timeSpan));
+        }
+
+        /// <summary>
+        /// Returns a new JewishDate with the TimeSpan subtracted.
+        /// </summary>
+        /// <param name="timeSpan">The TimeSpan to be subtracted</param>
+        /// <returns></returns>
+        public JewishDate Subtract(TimeSpan timeSpan)
+        {
+            return new JewishDate(GregDate.Subtract(timeSpan));
+        }
+
     }
 }
