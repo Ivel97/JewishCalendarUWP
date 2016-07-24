@@ -261,9 +261,7 @@ namespace JewishCalendarUWP
 
         public static bool IsYesterdayShabbos(JewishDate date)
         {
-            DateTime yesterday = date.Subtract(new TimeSpan(1, 0, 0, 0));
-
-            return IsShabbos(yesterday);
+            return IsShabbos(date.Subtract(new TimeSpan(1,0,0,0)));
         }
 
         public static bool IsCheshvanShort(int year)
