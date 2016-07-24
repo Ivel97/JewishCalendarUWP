@@ -289,6 +289,25 @@ namespace JewishCalendarUWP
             return false;
         }
 
+        /// <summary>
+        /// Returns what day of the week Rosh Hashanah of that year fell on.
+        /// </summary>
+        /// <param name="Year">The Jewish year</param>
+        /// <returns>The day of the week that Rosh Hashanah fell on</returns>
+        public static DayOfWeek RHDayOfWeek(int Year)
+        {
+            return new JewishDate(Year, 1, 1).GregDate.DayOfWeek;
+        }
+
+        /// <summary>
+        /// Returns what day of the week Rosh Hashanah of that year fell on.
+        /// </summary>
+        /// <param name="Date">A date within the respective year, doesn't have to be Rosh Hashanah</param>
+        /// <returns>The day of the week that Rosh Hashanah fell on</returns>
+        public static DayOfWeek RHDayOfWeek(JewishDate Date)
+        {
+            return RHDayOfWeek(Date.Year);
+        }
     }
 
 
