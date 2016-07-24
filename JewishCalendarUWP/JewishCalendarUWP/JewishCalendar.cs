@@ -39,7 +39,7 @@ namespace JewishCalendarUWP
         public static TimeSpan GetMolad(int year, int month)
         {
             TimeSpan molad = TimeSpan.FromTicks(1698799999932); //6 hours have been subtracted from the Rambam's Molad Tohu as our night starts at 12AM
-          
+
             year--; //Number of complete years
 
             int cycleNum = year / 19;
@@ -47,7 +47,7 @@ namespace JewishCalendarUWP
 
             molad = molad.Add(TimeSpan.FromTicks(cycleNum * NineteenYearCycleRemainder)); //For past cycles
 
-            for (int i = 1; i <= yearInCycle; i++) 
+            for (int i = 1; i <= yearInCycle; i++)
             {
                 if (IsLeapYear(cycleNum * 19 + i))
                 {
@@ -261,7 +261,7 @@ namespace JewishCalendarUWP
 
         public static bool IsYesterdayShabbos(JewishDate date)
         {
-            return IsShabbos(date.Subtract(new TimeSpan(1,0,0,0)));
+            return IsShabbos(date.Subtract(new TimeSpan(1, 0, 0, 0)));
         }
 
         public static bool IsCheshvanShort(int year)
