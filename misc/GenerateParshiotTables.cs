@@ -206,7 +206,7 @@ namespace misc
             }
 
             //If the Shabbos falls on Pesach
-            if ((daysPast >= dayPesahcStarts && daysPast < dayPesahcStarts + 7) || (daysPast == dayPesahcStarts + 8 && !inIsrael))
+            if ((daysPast >= dayPesahcStarts && daysPast < dayPesahcStarts + 8) || (daysPast == dayPesahcStarts + 8 && !inIsrael))
             {
                 return true;
             }
