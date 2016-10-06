@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Globalization;
 using static JewishCalendarUWP.Parsha.Enum;
 
 namespace JewishCalendarUWP.Parsha
@@ -19,7 +20,107 @@ namespace JewishCalendarUWP.Parsha
         /// <returns>The Torah portion that is read that Shabbos</returns>
         public TorahPortion? GetTorahPortion(JewishDate Date, bool inIsrael)
         {
-            throw new NotImplementedException();
+            HebrewCalendar hebCal = new HebrewCalendar();
+
+            Date = Date.FindNextDay(DayOfWeek.Saturday); //Assign Date to the following Shabbos  
+
+            int week = hebCal.GetWeekOfYear(Date, CalendarWeekRule.FirstDay, DayOfWeek.Sunday);
+
+            int rhStartDay = (int)JewishCalendar.GetRHDayOfWeek(Date) + 1;
+            int addedDays = Convert.ToInt32(!JewishCalendar.IsCheshvanShort(Date.Year)) + Convert.ToInt32(JewishCalendar.IsKislevLong(Date.Year));//Either 0,1 or 2            
+            bool isLeap = JewishCalendar.IsLeapYear(Date);
+
+            if (!isLeap)
+            {
+                switch (rhStartDay)
+                {
+                    case 2:
+                        if (addedDays == 0 || (addedDays == 2 && inIsrael))
+                        {
+                            return MonShort_MonLongIsrael_TueNormalIsrael[week - 1];
+                        }
+                        else
+                        {
+                            return MonLong_TueNormal[week - 1];
+                        }
+                        break;
+                    case 3:
+                        if (inIsrael)
+                        {
+                            return MonShort_MonLongIsrael_TueNormalIsrael[week - 1];
+                        }
+                        else
+                        {
+                            return MonLong_TueNormal[week - 1];
+                        }
+                        break;
+                    case 5:
+                        if (addedDays == 1)
+                        {
+                            return inIsrael ? ThuNormalIsrael[week - 1] : ThuNormal[week - 1];
+                        }
+                        else
+                        {
+                            return ThuLong[week - 1];
+                        }
+                        break;
+                    case 7:
+                        if (addedDays == 0)
+                        {
+                            return SatShort[week - 1];
+                        }
+                        else
+                        {
+                            return SatLong[week - 1];
+                        }
+                        break;
+                    default:
+                        throw new NotSupportedException("This type of year doesn't exist: " + rhStartDay + ", " + addedDays + ", " + isLeap);
+                        break;
+                }
+            }
+            else
+            {
+                switch (rhStartDay)
+                {
+                    case 2:
+                        if (addedDays == 0)
+                        {
+                            return inIsrael ? MonShortLeapIsrael[week - 1] : MonShortLeap[week - 1];
+                        }
+                        else
+                        {
+                            return inIsrael ? MonLongLeapIsrael_TueNormalLeapIsrael[week - 1] : MonLongLeap_TueNormalLeap[week - 1];
+                        }
+                        break;
+                    case 3:
+                        return inIsrael ? MonLongLeapIsrael_TueNormalLeapIsrael[week - 1] : MonLongLeap_TueNormalLeap[week - 1];
+                        break;
+                    case 5:
+                        if (addedDays == 0)
+                        {
+                            return ThuShortLeap[week - 1];
+                        }
+                        else
+                        {
+                            return ThuLongLeap[week - 1];
+                        }
+                        break;
+                    case 7:
+                        if (addedDays == 0 || (addedDays == 2 && inIsrael))
+                        {
+                            return SatShortLeap_SatLongLeapIsrael[week - 1];
+                        }
+                        else
+                        {
+                            return SatLongLeap[week - 1];
+                        }
+                        break;
+                    default:
+                        throw new NotSupportedException("This type of year doesn't exist: " + rhStartDay + ", " + addedDays + ", " + isLeap);
+                        break;
+                }
+            }
         }
 
         /// <summary>
@@ -31,7 +132,11 @@ namespace JewishCalendarUWP.Parsha
         /// <returns>The Torah portion that is read that Shabbos</returns>
         public TorahPortion? GetTorahPortion(int Year, int Week, bool inIsrael)
         {
-            throw new NotImplementedException();
+            HebrewCalendar hebCal = new HebrewCalendar();
+
+            JewishDate date = hebCal.AddWeeks(new JewishDate(Year, 1, 1), Week - 1);
+            
+            return GetTorahPortion(date, inIsrael);
         }
 
         /// <summary>
