@@ -306,8 +306,19 @@ namespace JewishCalendarUWP
         {
             return GetRHDayOfWeek(Date.Year);
         }
-    }
 
+        /// <summary>
+        /// Returns what day of the week the first day of Pesach falls on, used to calculate the parshios
+        /// </summary>
+        /// <param name="Date">A date within the respective year, doesn't have to be Pesach</param>
+        /// <returns>The day of the week that first day of Pesach falls on</returns>
+        public static DayOfWeek GetPesachDayOfWeek(JewishDate Date)
+        {
+            HebrewCalendar hebCal = new HebrewCalendar();
+
+            return hebCal.GetDayOfWeek(new JewishDate(Date.Year, IsLeapYear(Date) ? 8 : 7, 15));
+        }
+    }
 
     public enum SpecialDates
     {
