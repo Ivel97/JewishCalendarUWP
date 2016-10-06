@@ -12,6 +12,8 @@ namespace JewishCalendarUWP
         public int Year { get; }
         public int Month { get; }
         public int Day { get; }
+        public DayOfWeek DayOfWeek { get; }
+        public int DayOfYear { get; }
 
         /// <summary>
         /// Sets the date according to the Hebrew Calendar
@@ -28,6 +30,9 @@ namespace JewishCalendarUWP
             Year = year;
             Month = month;
             Day = day;
+
+            DayOfWeek = hebCal.GetDayOfWeek(GregDate);
+            DayOfYear = hebCal.GetDayOfYear(GregDate);
         }
 
         /// <summary>
@@ -43,6 +48,9 @@ namespace JewishCalendarUWP
             Year = hebCal.GetYear(date);
             Month = hebCal.GetMonth(date);
             Day = hebCal.GetDayOfMonth(date);
+
+            DayOfWeek = hebCal.GetDayOfWeek(GregDate);
+            DayOfYear = hebCal.GetDayOfYear(GregDate);
         }
 
         public static implicit operator DateTime(JewishDate date)
