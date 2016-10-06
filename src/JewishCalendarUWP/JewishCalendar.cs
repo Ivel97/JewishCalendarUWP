@@ -254,9 +254,7 @@ namespace JewishCalendarUWP
 
         public static bool IsShabbos(JewishDate date)
         {
-            HebrewCalendar hebCal = new HebrewCalendar();
-
-            return (hebCal.GetDayOfWeek(date) == DayOfWeek.Saturday);
+            return (date.DayOfWeek == DayOfWeek.Saturday);
         }
 
         public static bool IsYesterdayShabbos(JewishDate date)
@@ -296,7 +294,7 @@ namespace JewishCalendarUWP
         /// <returns>The day of the week that Rosh Hashanah fell on</returns>
         public static DayOfWeek GetRHDayOfWeek(int Year)
         {
-            return new JewishDate(Year, 1, 1).GregDate.DayOfWeek;
+            return new JewishDate(Year, 1, 1).DayOfWeek;
         }
 
         /// <summary>
