@@ -83,5 +83,22 @@ namespace JewishCalendarUWP
             return new JewishDate(GregDate.Subtract(timeSpan));
         }
 
+        /// <summary>
+        /// Returns the first occurrence of the specified <see cref="System.DayOfWeek"/> after the <see cref="JewishDate"/>. 
+        /// If the <see cref="JewishDate"/> falls on the specified <see cref="System.DayOfWeek"/> then no days are added.
+        /// </summary>
+        /// <param name="day">The day of the week to search for</param>
+        /// <returns>The <see cref="JewishDate"/> that matches the <paramref name="day"/>, could be the original <see cref="JewishDate"/></returns>
+        public JewishDate FindNextDay(DayOfWeek day)
+        {
+            JewishDate result = this;
+
+            while (result.DayOfWeek != day)
+            {
+                result = result.Add(new TimeSpan(1, 0, 0, 0));
+            }
+
+            return result;
+        }
     }
 }
