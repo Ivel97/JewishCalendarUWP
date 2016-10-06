@@ -294,7 +294,7 @@ namespace JewishCalendarUWP
         /// </summary>
         /// <param name="Year">The Jewish year</param>
         /// <returns>The day of the week that Rosh Hashanah fell on</returns>
-        public static DayOfWeek RHDayOfWeek(int Year)
+        public static DayOfWeek GetRHDayOfWeek(int Year)
         {
             return new JewishDate(Year, 1, 1).GregDate.DayOfWeek;
         }
@@ -304,9 +304,9 @@ namespace JewishCalendarUWP
         /// </summary>
         /// <param name="Date">A date within the respective year, doesn't have to be Rosh Hashanah</param>
         /// <returns>The day of the week that Rosh Hashanah fell on</returns>
-        public static DayOfWeek RHDayOfWeek(JewishDate Date)
+        public static DayOfWeek GetRHDayOfWeek(JewishDate Date)
         {
-            return RHDayOfWeek(Date.Year);
+            return GetRHDayOfWeek(Date.Year);
         }
     }
 
